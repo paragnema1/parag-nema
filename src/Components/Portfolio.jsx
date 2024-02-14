@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Github",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Contains my github repository showing my technical work experience and knowledge.",
+    url: "https://github.com/paragnema1",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Face Detection Project using Python and OpenCV",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "capture video frames from a webcam, apply a face detector model, and draw rectangles around the faces. It can also count the number of faces and label them. ",
+    url: "https://github.com/paragnema1/Face_Detection_Project",
   },
   {
-    title: "My Resume Site",
+    title: "My Linkedin",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "My linkedin profile showing my acheivements and accomplishment, and my professional network.",
+    url: "https://www.linkedin.com/in/parag-nema/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Resume",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My resume showing my education, work experience, and skills and certifications.",
+    url: "https://drive.google.com/file/d/1lQUZEimLmntFBQ9wVmBwNJygwtyjHtLD/view?pli=1",
   },
 ];
 
