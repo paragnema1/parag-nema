@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Head of Entrepreneurship Wing ",
+  "Google Developer Group Baroda",
+  "Python & C++",
+  "Internship Trainee Indian Railways",
+  "Embedded System & VLSI Enthusiast",
+  "Certified Digital Marketer",
 ];
 
 /**
